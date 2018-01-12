@@ -1,4 +1,4 @@
-#Binary Search
+##Binary Search
 
 I remember when I was serving in the military a couple of years ago back in 2014. 
 I served in the joint U.S and Korean army and was based in Yongsan.
