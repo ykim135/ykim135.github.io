@@ -2,7 +2,7 @@
 
 Category
 
-1. [Algorithm](https://github.com/ykim135/ykim135.github.io/algorithm)
+1. [Algorithm](https://github.com/ykim135/ykim135.github.io/algorithm/index.md)
 2. Design Pattern
 3. Java
 4. Scala
