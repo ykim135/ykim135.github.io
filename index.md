@@ -2,8 +2,6 @@
 
 Category
 
-1. [Algorithm](./algorithm/index.md)
-2. Design Pattern
-3. Java
-4. Scala
-5. JS
+1. [Algorithms and data structures because we are all expected to know them](./algorithm/index.md)
+
+2. [The adventures of a mischievous backend engineer to the front-end frontier](./front/index.md) 
