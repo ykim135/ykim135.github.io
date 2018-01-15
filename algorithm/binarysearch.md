@@ -33,10 +33,15 @@ second half of the stack in the opposite case.
 That my friends, is binary search in real life. Who would have though the age old algorithm from your textbook would 
 be so pragmatic? (no pun intended)
 
-## How do you really describe binary search?
+## How would you really describe binary search?
 
-If I were to explain it in a more textbook-ish way, I would say binary search is a divide and conquer search technique 
+If I were to explain it, I would say binary search is a divide and conquer search technique 
 that halves the scope of search based on how small or large the search value is compared to a target value.
+
+'Divide and conquer' is the classical method of problem solving that goes way back before computers were even
+invented. It doesn't matter if you know what the term means or not. Chances are you've probably used it too
+ever since you were a little kid! For those that don't know, that's okay! We are all here to learn and improve
+ourselves constantly. 
 
 Binary search is performed on arrays and trees and it is essential to know how to implement the search using both structures.
 

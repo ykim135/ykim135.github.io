@@ -9,3 +9,5 @@ Category
 3. ["23 Gang of Four" because it sounds cool](./front/index.md) 
 
 4. [The Spring and Autumn Period](./front/index.md)
+
+5. [The JS state of mind : Bind](./front/index.md)
